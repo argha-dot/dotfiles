@@ -1,0 +1,14 @@
+[window]
+opacity = 1
+startup_mode = "Maximized"
+dynamic_title = true
+
+[font]
+normal = { family = "Monofur Nerd Font Mono" }
+size = 13
+
+[keyboard]
+bindings = [
+	{ key = "Space", mods = "Control|Shift", action = "ToggleViMode" },
+	{ key = "N", mods = "Control|Shift", action = "CreateNewWindow" }
+]
