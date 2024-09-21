@@ -88,3 +88,4 @@ export PATH=/home/argha/.local/bin:$PATH
 eval "$(fnm env --use-on-cd)"
 eval "$(zoxide init zsh)"
 alias protontricks='flatpak run com.github.Matoking.protontricks'
+export PATH="$HOME/.local/bin/zig-linux-x86_64-0.14.0-dev.1391+e084c46ed:$PATH"
