@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Exec=alacritty
+Name=Alacritty
+Comment=A cross-platform, GPU-accelerated terminal emulator
+Icon=<Path to icon>
+Encoding=UTF-8
+Categories=Development
+Terminal=false
